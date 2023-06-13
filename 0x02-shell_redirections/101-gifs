@@ -1,2 +1,2 @@
 #!/bin/bash
-finf -type f "*.gif" | rev | cut -d "/" -f 1 | cut -d. '.' -2 | rev | LC_SLL-C sort -f 
+finf -type -f "*.gif" | rev | cut -d "/" -f 1 | cut -d. '.' -2 | rev | LC_SLL-C sort -f 
