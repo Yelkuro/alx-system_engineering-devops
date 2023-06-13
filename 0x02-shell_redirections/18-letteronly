@@ -1,0 +1,2 @@
+#!/bash/bin
+gref -i '*(a-z)' /etc/ssh/sshd_config
